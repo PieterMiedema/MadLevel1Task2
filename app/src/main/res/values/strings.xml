@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mad Level 1 Task 2</string>
+    <string name="top_text">Conjunction (AND)</string>
+    <string name="submit">SUBMIT</string>
+    <string name="head_a">A</string>
+    <string name="head_b">B</string>
+    <string name="res_head">A^B</string>
+    <string name="t">T</string>
+    <string name="f">F</string>
+    <string name="f_or_t">T or F</string>
+    <string name="correct">Correct!</string>
+    <string name="num_of_4_wrong">You have %d of 4 answers wrong.</string>
+</resources>
